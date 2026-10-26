@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"static/chunks/258-2cb6a0128da3900a.js"
+3:"static/chunks/947-205a417fe81bc2f9.js"
+4:"static/chunks/app/layout-a997b7370f839f24.js"
+5:I[81726,["258","$2","947","$3","177","$4"],"ThemeProvider"]
+6:I[24134,["258","$2","947","$3","177","$4"],"FocusRingGuard"]
+7:I[76892,[],""]
+8:I[26474,[],""]
+9:"static/chunks/333-06d53c18b9dd88a9.js"
+a:"static/chunks/app/not-found-1f6d1ef815804bee.js"
+b:I[62333,["333","$9","345","$a"],""]
+c:"AppToastProvider"
+d:I[3094,["258","$2","947","$3","177","$4"],"$c"]
+14:I[16937,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[16937,[],"$18"]
+1a:"MetadataBoundary"
+1b:I[16937,[],"$1a"]
+1c:I[4540,[],"IconMark"]
+:HL["/_next/static/css/9b86138231100812.css","style"]
+f:X
+12:X
+12:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-dvh flex-col items-center justify-center px-6","children":["$","div",null,{"className":"flex flex-col items-center gap-6 text-center","children":[["$","div",null,{"className":"flex flex-col items-center gap-2","children":[["$","span",null,{"className":"text-8xl font-bold text-primary/20","children":"404"}],["$","h1",null,{"className":"text-xl font-semibold","children":"页面未找到"}]]}],["$","p",null,{"className":"max-w-sm text-sm text-muted","children":"抱歉，您访问的页面不存在或已被移除。"}],["$","$Lb",null,{"href":"/","className":"inline-flex items-center rounded-full bg-zinc-900 px-4 py-2 text-sm font-medium text-white transition-colors [@media(hover:hover)]:hover:bg-zinc-700 dark:bg-white dark:text-zinc-950 dark:[@media(hover:hover)]:hover:bg-zinc-200","children":"返回首页"}]]}]}],null,["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$f"}}]]
+10:[["children",{"s":"_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9b86138231100812.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){\n  try{\n    if(\"scrollRestoration\" in window.history){\n      window.history.scrollRestoration=\"manual\";\n    }\n  }catch(_e){}\n})()"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){\n  var m=\"dark\";\n  var d=document.documentElement;\n  function apply(dark){\n    if(dark){d.classList.add(\"dark\");d.style.colorScheme=\"dark\"}\n    else{d.classList.remove(\"dark\");d.style.colorScheme=\"light\"}\n  }\n  if(m===\"dark\"){apply(true)}\n  else if(m===\"light\"){apply(false)}\n  else{apply(window.matchMedia(\"(prefers-color-scheme:dark)\").matches)}\n})()"}}]]}],["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L5",null,{"mode":"dark","children":[["$","$L6",null,{}],["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[["$","div",null,{"className":"flex min-h-dvh flex-col items-center justify-center px-6","children":["$","div",null,{"className":"flex flex-col items-center gap-6 text-center","children":[["$","div",null,{"className":"flex flex-col items-center gap-2","children":[["$","span",null,{"className":"text-8xl font-bold text-primary/20","children":"404"}],["$","h1",null,{"className":"text-xl font-semibold","children":"页面未找到"}]]}],["$","p",null,{"className":"max-w-sm text-sm text-muted","children":"抱歉，您访问的页面不存在或已被移除。"}],["$","$Lb",null,{"href":"/","className":"inline-flex items-center rounded-full bg-zinc-900 px-4 py-2 text-sm font-medium text-white transition-colors [@media(hover:hover)]:hover:bg-zinc-700 dark:bg-white dark:text-zinc-950 dark:[@media(hover:hover)]:hover:bg-zinc-200","children":"返回首页"}]]}]}],[]]}],["$","$Ld",null,{}]]}]}]]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"飞鱼的快捷导航小站"}],["$","meta","1",{"name":"description","content":"简洁高效的网址导航站"}],["$","meta","2",{"name":"author","content":"dengxiwang"}],["$","meta","3",{"name":"keywords","content":"网址导航站,导航站,网址导航,个人导航"}],["$","meta","4",{"name":"copyright","content":"版权所有 © 2026 FIEYU. 保留所有权利"}],["$","link","5",{"rel":"icon","href":"/uploads/favicon-sct1kb.ico"}],["$","$L1c","6",{}]]}]}],null]}],null]}],"p":"$@1d","v":null,"s":"$f"}},"a":"$@1e","u":"$@1f","b":"FSxdsmrwDiE3KQ8POeDgf"}
+16:null
+f:300
+1f:true
+f:C
+1e:0
+11:"$undefined"
+e:"$undefined"
+1d:"$undefined"
+17:"$undefined"
